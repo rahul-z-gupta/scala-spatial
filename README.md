@@ -1,4 +1,4 @@
-znaptix
+scala-spatial
 =======
 
-Znaptix Whiteboard
+JTS Scala Wrapper
